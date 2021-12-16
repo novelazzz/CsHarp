@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe.config
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Form1.resources
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.exe
+C:\Users\Asaf\Desktop\C#\NotHesaplama\NotHesaplama\obj\Debug\NotHesaplama.pdb

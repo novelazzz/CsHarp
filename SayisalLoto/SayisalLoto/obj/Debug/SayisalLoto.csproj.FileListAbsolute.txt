@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\Asaf\Desktop\C#\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb

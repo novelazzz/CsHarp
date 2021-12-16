@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\bin\Debug\Uçak Bileti Sorgu.exe.config
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\bin\Debug\Uçak Bileti Sorgu.exe
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\bin\Debug\Uçak Bileti Sorgu.pdb
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak Bileti Sorgu.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak_Bileti_Sorgu.Form1.resources
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak_Bileti_Sorgu.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak Bileti Sorgu.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak Bileti Sorgu.exe
+C:\Users\Asaf\Desktop\C#\Uçak Bileti Sorgu\Uçak Bileti Sorgu\obj\Debug\Uçak Bileti Sorgu.pdb

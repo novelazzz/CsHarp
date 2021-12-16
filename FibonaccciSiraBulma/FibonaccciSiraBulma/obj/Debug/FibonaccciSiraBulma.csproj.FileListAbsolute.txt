@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\bin\Debug\FibonaccciSiraBulma.exe.config
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\bin\Debug\FibonaccciSiraBulma.exe
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\bin\Debug\FibonaccciSiraBulma.pdb
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.Form1.resources
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.exe
+C:\Users\Asaf\Desktop\C#\FibonaccciSiraBulma\FibonaccciSiraBulma\obj\Debug\FibonaccciSiraBulma.pdb

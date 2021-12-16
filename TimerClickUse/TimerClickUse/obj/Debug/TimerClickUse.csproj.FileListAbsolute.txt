@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\bin\Debug\TimerClickUse.exe.config
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\bin\Debug\TimerClickUse.exe
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\bin\Debug\TimerClickUse.pdb
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.Form1.resources
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.exe
+C:\Users\Asaf\Desktop\C#\TimerClickUse\TimerClickUse\obj\Debug\TimerClickUse.pdb

@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimerUse.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimeUse.Form1.resources
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimeUse.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimerUse.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\bin\Debug\TimeUse.exe.config
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\bin\Debug\TimeUse.exe
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\bin\Debug\TimeUse.pdb
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimeUse.exe
+C:\Users\Asaf\Desktop\C#\TimeUse\TimeUse\obj\Debug\TimeUse.pdb

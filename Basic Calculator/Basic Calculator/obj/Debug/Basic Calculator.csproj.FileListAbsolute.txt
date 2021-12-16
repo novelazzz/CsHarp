@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\Asaf\Desktop\C#\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb

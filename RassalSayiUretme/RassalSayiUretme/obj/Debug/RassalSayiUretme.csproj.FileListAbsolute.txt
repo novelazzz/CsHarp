@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\bin\Debug\RassalSayiUretme.exe.config
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\bin\Debug\RassalSayiUretme.exe
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\bin\Debug\RassalSayiUretme.pdb
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.Form1.resources
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.exe
+C:\Users\Asaf\Desktop\C#\RassalSayiUretme\RassalSayiUretme\obj\Debug\RassalSayiUretme.pdb

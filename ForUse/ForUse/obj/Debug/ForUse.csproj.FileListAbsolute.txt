@@ -1,0 +1,9 @@
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\bin\Debug\ForUse.exe.config
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\bin\Debug\ForUse.exe
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\bin\Debug\ForUse.pdb
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.Form1.resources
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.Properties.Resources.resources
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.exe
+C:\Users\Asaf\Desktop\C#\ForUse\ForUse\obj\Debug\ForUse.pdb
